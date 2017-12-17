@@ -6,6 +6,14 @@ body { background-color: lightSteelblue;
 	float: right;
 }
 
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: FAF0E6;
+	border-radius: 15px;
+	height: 150px;
+}
+
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
